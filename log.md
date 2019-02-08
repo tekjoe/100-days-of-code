@@ -14,4 +14,4 @@
 
 **Thoughts:** I'm still trying to understand React and how to pass props down to components but I made a little bit of progress today. I was able to get the local weather data, save it to state, then pass it down as props to a component. Moving foward, I'd like to understand how I can make an API call to something like Twitter or Fitbit that require authentication before returning any results.
 
-**Link to work:** [GitHub Repository](https://tekjoe.github.io)
+**Link to work:** [GitHub Repository](https://github.com/tekjoe/react-dashboard)
